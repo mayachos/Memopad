@@ -13,6 +13,7 @@
 		630E6D902510E64500D08E34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 630E6D8E2510E64500D08E34 /* Main.storyboard */; };
 		630E6D922510E64600D08E34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 630E6D912510E64600D08E34 /* Assets.xcassets */; };
 		630E6D952510E64600D08E34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 630E6D932510E64600D08E34 /* LaunchScreen.storyboard */; };
+		630E6D9D2510E69E00D08E34 /* MemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 630E6D9C2510E69E00D08E34 /* MemoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		630E6D912510E64600D08E34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		630E6D942510E64600D08E34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		630E6D962510E64600D08E34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		630E6D9C2510E69E00D08E34 /* MemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				630E6D882510E64500D08E34 /* AppDelegate.swift */,
 				630E6D8A2510E64500D08E34 /* SceneDelegate.swift */,
 				630E6D8C2510E64500D08E34 /* ViewController.swift */,
+				630E6D9C2510E69E00D08E34 /* MemoViewController.swift */,
 				630E6D8E2510E64500D08E34 /* Main.storyboard */,
 				630E6D912510E64600D08E34 /* Assets.xcassets */,
 				630E6D932510E64600D08E34 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				630E6D9D2510E69E00D08E34 /* MemoViewController.swift in Sources */,
 				630E6D8D2510E64500D08E34 /* ViewController.swift in Sources */,
 				630E6D892510E64500D08E34 /* AppDelegate.swift in Sources */,
 				630E6D8B2510E64500D08E34 /* SceneDelegate.swift in Sources */,
